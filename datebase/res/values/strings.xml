@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">datebase</string>
+    <string name="add">add</string>
+    <string name="delete">detele</string>
+    <string name="update">update</string>
+    <string name="find">find</string>
+    <string name="action_settings">action_settings</string>
+
+</resources>
